@@ -2,7 +2,7 @@ Changelog of cookiecutter-demo
 ===================================================
 
 
-0.1 (unreleased)
+0.1 (2020-05-27)
 ----------------
 
 - Initial project structure created with cookiecutter and
